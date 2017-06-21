@@ -23,9 +23,7 @@ h3{
 font-size: 18px;
 font-weight: 900;
 }
-h4{
-	text-transform: uppercase;
-}
+
 h5{
 	text-transform: uppercase;
 	font-weight: 700;
@@ -117,7 +115,7 @@ font-weight: 900;
 	}
 /* Home Style */
 #tf-home{
-	background: url(../img/background.JPG);
+	background: url(../img/background.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
